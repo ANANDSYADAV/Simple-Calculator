@@ -1,0 +1,31 @@
+.calculator{
+    background-color: #DEB887;
+    height: 400px;
+    width: 400px;
+}
+.heading{
+    text-decoration: underline;
+}
+.display-box{
+    height: 66px;
+    width: 300px;
+    background-color: aqua;
+    border: solid 1px;
+    font-size: larger;
+}
+input[type=button]
+{
+    background-color: #7FFFD4;
+    height: 20%;
+    margin: auto;
+    font-size: larger;
+    height: 70px;
+    width: 90px;
+}
+#btn{
+    background-color: #FFF8DC;
+    margin: auto;
+    font-size: larger;
+    height: 70px;
+    width: 90px;
+}
